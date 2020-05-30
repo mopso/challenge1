@@ -105,5 +105,4 @@ Il comando ritorna 0 in caso di successo e un valore diverso da 0 in caso di err
 
 - AMAZON AWS Comprehend
 
-## 
 
