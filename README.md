@@ -61,8 +61,8 @@ Esempio <sample_file> format:
 
 ```
 feature 1,feature 2,feature 3,...,feature n,tag
-“ABCD”,”DAEBAA”,0,100,...,0, “10”
-“ABCD”,,90,0,...,100, “00”
+"ABCD","DAEBAA",0,100,...,0, "10"
+"ABCD",,90,0,...,100, “00”
 ...
 ```
 
