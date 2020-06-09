@@ -119,9 +119,12 @@ feature 1,feature 2,feature 3,...,feature n,tag,confidence
 ```
 
 
-
 ## Riferimenti a tool già esistenti con cui fare benchmark
 
 - AMAZON AWS Comprehend
 
+## Vincoli e gradi di liberà
+
+- non sono richiesti particolari requisiti prestazionali sia per la costruzione del modello sia per il calcolo delle predizioni
+- il linguaggio di programmazione è liberò purchè i comandi siano disponibili ( o facilmente resi disponibili) tramite container docker
 
