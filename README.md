@@ -69,7 +69,7 @@ feature 1,feature 2,feature 3,...,feature n,tag
 Esempio <weights_file> format:
 
 ```
-MIN-values, MAX-values
+id, MIN-values, MAX-values
 feature1, <min(feature1)>, <max(feature1)>
 feature2,min(feature2), max(feature2)
 …
