@@ -31,7 +31,7 @@ Si suppone esista un dataset di training composto da circa 100000 vettori S già
 
 Esiste un vettore di pesi assegnati ai singoli elementi di S di cui l’algoritmo dovrebbe tenere conto.
 
-Si conosce apriori la la distribuzione statistica attesa dei tag nel dataset di ingresso è nota ed la seguente:
+Si conosce apriori la la distribuzione statistica attesa dei tag:
 
 - 00 presente con una frequenza circa del 94%
 - 11 presente con una frequenza circa del 2%
